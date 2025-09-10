@@ -1,0 +1,22 @@
+Beginner Projects (Fundamentals & Logic):
+
+- Number Guessing Game: User guesses a random number.
+- Rock, Paper, Scissors: Classic game against the computer.
+- Password Generator: Creates random, strong passwords.
+- Hangman: Word-guessing game.
+- Dice Rolling Simulator: Simulates rolling dice.
+- Calculator: Basic arithmetic operations.
+- Mad Libs Generator: Creates humorous stories from user input.
+- Alarm Clock: Simple time-based reminder.
+- Countdown Timer: Counts down to a specific time.
+- Tic-Tac-Toe: Two-player game.
+- Email Slicer: Extracts username and domain from an email address.
+- Acronym Generator: Creates acronyms from phrases.
+- Website Blocker: Blocks access to specific websites.
+- Contact Book: Stores and manages contact information.
+- Text-based Adventure Game: Interactive story game.
+- Desktop Notifier App: Sends desktop notifications.
+- Simple To-Do List: Manages tasks.
+- Palindrome Checker: Checks if a word/phrase is a palindrome.
+- Fibonacci Sequence Generator: Generates the Fibonacci sequence.
+- Area Calculator: Calculates area of various shapes.
