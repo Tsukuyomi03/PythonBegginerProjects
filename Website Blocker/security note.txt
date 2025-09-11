@@ -1,0 +1,2 @@
+Security Note:
+This program modifies system files and requires administrator privileges. It works by adding entries to the hosts file that redirect blocked websites to your local machine (127.0.0.1), effectively preventing access to those sites through any browser on your system.
